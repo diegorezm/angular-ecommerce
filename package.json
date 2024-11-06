@@ -35,6 +35,7 @@
     "@ngx-env/builder": "^18.0.2",
     "@types/jasmine": "~5.1.0",
     "@types/node": "^22.9.0",
+    "angular-cli-ghpages": "^2.0.3",
     "autoprefixer": "^10.4.20",
     "daisyui": "^4.12.14",
     "jasmine-core": "~5.2.0",

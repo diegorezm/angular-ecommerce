@@ -20,6 +20,7 @@
           "options": {
             "outputPath": "dist/ecommerce",
             "index": "src/index.html",
+            "baseHref": "/angular-ecommerce/",
             "browser": "src/main.ts",
             "polyfills": [
               "zone.js"
@@ -101,6 +102,9 @@
             ],
             "scripts": []
           }
+        },
+        "deploy": {
+          "builder": "angular-cli-ghpages:deploy"
         }
       }
     }
