@@ -1,17 +1,18 @@
 import {Component} from '@angular/core';
 import {RouterOutlet} from '@angular/router';
-import {ProductsService} from "./services/products.service";
+import {NotificationComponent} from './components/notification/notification.component';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet],
-  templateUrl: './app.component.html',
+  imports: [RouterOutlet, NotificationComponent],
+  template: `
+    <app-notification></app-notification>
+    <router-outlet></router-outlet>
+`
 })
 export class AppComponent {
   title = 'ecommerce';
-  constructor(private productService: ProductsService) {
-    const products = this.productService.getProducts();
-    products.subscribe(products => console.log(products));
+  constructor() {
   }
 }

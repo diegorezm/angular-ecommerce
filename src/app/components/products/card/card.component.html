@@ -1,0 +1,32 @@
+<div class="card bg-base-100 w-96 shadow-xl">
+  <figure>
+    <img
+      [src]="product.img"
+      [alt]="product.name"
+      class="w-full h-56 object-cover"
+    />
+  </figure>
+  <div class="card-body">
+
+    <h2 class="card-title">{{ product.name }}</h2>
+
+    <p class="truncate">
+      {{ product.description }}
+    </p>
+
+    <p>
+      price: ${{ product.price }}
+    </p>
+
+    <div class="card-actions justify-end">
+      <button class="btn btn-primary" (click)="addToCart()" [disabled]="inCart">
+        Add to cart
+      </button>
+
+      <a [routerLink]="['/product', product.id]" class="btn btn-outline">
+        Details
+      </a>
+    </div>
+    <span class="badge badge-outline">{{ product.category }}</span>
+  </div>
+</div>

@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 0,
+    "name": "Rustic Steel Fish",
+    "description": "The User-friendly AI-powered database Shirt offers reliable performance and trim design",
+    "price": 612.69,
+    "img": "/product-1.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 1,
+    "name": "Unbranded Granite Table",
+    "description": "Introducing the Mali-inspired Ball, blending unusual style with local craftsmanship",
+    "price": 524.59,
+    "img": "/product-2.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 2,
+    "name": "Incredible Frozen Cheese",
+    "description": "New pink Tuna with ergonomic design for vague comfort",
+    "price": 101.15,
+    "img": "/product-3.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 3,
+    "name": "Recycled Cotton Car",
+    "description": "Our bat-friendly Tuna ensures windy comfort for your pets",
+    "price": 142.19,
+    "img": "/product-1.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 4,
+    "name": "Recycled Soft Towels",
+    "description": "New teal Gloves with ergonomic design for right comfort",
+    "price": 185.59,
+    "img": "/product-2.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 5,
+    "name": "Practical Granite Sausages",
+    "description": "Professional-grade Tuna perfect for smart training and recreational use",
+    "price": 875.69,
+    "img": "/product-3.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 6,
+    "name": "Electronic Plastic Computer",
+    "description": "Discover the horse-like agility of our Pizza, perfect for orange users",
+    "price": 104.15,
+    "img": "/product-1.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 7,
+    "name": "Bespoke Granite Chicken",
+    "description": "Innovative Hat featuring adolescent technology and Bronze construction",
+    "price": 709.59,
+    "img": "/product-2.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 8,
+    "name": "Incredible Soft Pants",
+    "description": "Gleason Group's most advanced Chicken technology increases alert capabilities",
+    "price": 632.59,
+    "img": "/product-3.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 9,
+    "name": "Elegant Bronze Chicken",
+    "description": "The Kaycee Keyboard is the latest in a series of confused products from Torphy and Sons",
+    "price": 830.2,
+    "img": "/product-1.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 10,
+    "name": "Modern Soft Gloves",
+    "description": "Discover the frog-like agility of our Ball, perfect for celebrated users",
+    "price": 256.19,
+    "img": "/product-2.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 11,
+    "name": "Elegant Granite Bacon",
+    "description": "Discover the crocodile-like agility of our Bacon, perfect for lovable users",
+    "price": 536.45,
+    "img": "/product-3.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 12,
+    "name": "Tasty Metal Chips",
+    "description": "New Chicken model with 13 GB RAM, 348 GB storage, and warlike features",
+    "price": 781.25,
+    "img": "/product-1.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 13,
+    "name": "Luxurious Rubber Soap",
+    "description": "Innovative Computer featuring nifty technology and Concrete construction",
+    "price": 749.59,
+    "img": "/product-2.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 14,
+    "name": "Electronic Granite Bike",
+    "description": "Discover the bat-like agility of our Chicken, perfect for powerful users",
+    "price": 642.29,
+    "img": "/product-3.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 15,
+    "name": "Awesome Metal Tuna",
+    "description": "New Soap model with 15 GB RAM, 396 GB storage, and impressionable features",
+    "price": 103.89,
+    "img": "/product-1.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 16,
+    "name": "Practical Concrete Salad",
+    "description": "Recycled Bike designed with Rubber for frozen performance",
+    "price": 834.99,
+    "img": "/product-2.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 17,
+    "name": "Handmade Wooden Keyboard",
+    "description": "The turquoise Pants combines Italy aesthetics with Lanthanum-based durability",
+    "price": 954.15,
+    "img": "/product-3.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 18,
+    "name": "Oriental Cotton Keyboard",
+    "description": "The ivory Sausages combines Macao aesthetics with Helium-based durability",
+    "price": 203.95,
+    "img": "/product-1.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 19,
+    "name": "Ergonomic Wooden Tuna",
+    "description": "New Mouse model with 71 GB RAM, 630 GB storage, and flickering features",
+    "price": 920.99,
+    "img": "/product-2.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 20,
+    "name": "Oriental Steel Sausages",
+    "description": "Our hippopotamus-friendly Pizza ensures wretched comfort for your pets",
+    "price": 413.99,
+    "img": "/product-3.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 21,
+    "name": "Generic Steel Pants",
+    "description": "Savor the crispy essence in our Chair, designed for genuine culinary adventures",
+    "price": 733.09,
+    "img": "/product-1.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 22,
+    "name": "Generic Bronze Fish",
+    "description": "Ergonomic Tuna made with Cotton for all-day buzzing support",
+    "price": 371.4,
+    "img": "/product-2.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 23,
+    "name": "Tasty Steel Cheese",
+    "description": "The Erica Salad is the latest in a series of memorable products from Schmitt, Predovic and Beatty",
+    "price": 547.79,
+    "img": "/product-3.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 24,
+    "name": "Handmade Frozen Sausages",
+    "description": "Savor the moist essence in our Table, designed for legal culinary adventures",
+    "price": 779.25,
+    "img": "/product-1.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 25,
+    "name": "Ergonomic Plastic Chips",
+    "description": "Our delicious-inspired Chips brings a taste of luxury to your untimely lifestyle",
+    "price": 982.29,
+    "img": "/product-2.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 26,
+    "name": "Unbranded Fresh Car",
+    "description": "Featuring Gadolinium-enhanced technology, our Salad offers unparalleled rigid performance",
+    "price": 798.09,
+    "img": "/product-3.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 27,
+    "name": "Gorgeous Fresh Gloves",
+    "description": "The magenta Towels combines Bulgaria aesthetics with Vanadium-based durability",
+    "price": 223.39,
+    "img": "/product-1.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 28,
+    "name": "Oriental Cotton Bacon",
+    "description": "Featuring Tellurium-enhanced technology, our Ball offers unparalleled showy performance",
+    "price": 37.89,
+    "img": "/product-2.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 29,
+    "name": "Small Bronze Ball",
+    "description": "Introducing the Belize-inspired Sausages, blending golden style with local craftsmanship",
+    "price": 198.39,
+    "img": "/product-3.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 30,
+    "name": "Luxurious Soft Salad",
+    "description": "Savor the smoky essence in our Shoes, designed for apprehensive culinary adventures",
+    "price": 402.45,
+    "img": "/product-1.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 31,
+    "name": "Electronic Plastic Table",
+    "description": "New tan Sausages with ergonomic design for jam-packed comfort",
+    "price": 525.05,
+    "img": "/product-2.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 32,
+    "name": "Unbranded Cotton Fish",
+    "description": "New olive Fish with ergonomic design for distinct comfort",
+    "price": 185.49,
+    "img": "/product-3.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 33,
+    "name": "Small Fresh Tuna",
+    "description": "Featuring Cobalt-enhanced technology, our Chicken offers unparalleled which performance",
+    "price": 426.95,
+    "img": "/product-1.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 34,
+    "name": "Gorgeous Granite Bike",
+    "description": "Ergonomic Computer made with Wooden for all-day wry support",
+    "price": 464.55,
+    "img": "/product-2.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 35,
+    "name": "Luxurious Plastic Towels",
+    "description": "Ergonomic Bike made with Soft for all-day powerless support",
+    "price": 427.49,
+    "img": "/product-3.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 36,
+    "name": "Modern Metal Cheese",
+    "description": "Professional-grade Pants perfect for probable training and recreational use",
+    "price": 622.19,
+    "img": "/product-1.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 37,
+    "name": "Small Bronze Pants",
+    "description": "Our snake-friendly Tuna ensures glorious comfort for your pets",
+    "price": 825.75,
+    "img": "/product-2.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 38,
+    "name": "Intelligent Plastic Sausages",
+    "description": "Our crocodile-friendly Shoes ensures icy comfort for your pets",
+    "price": 855.39,
+    "img": "/product-3.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 39,
+    "name": "Intelligent Rubber Sausages",
+    "description": "Our bat-friendly Chair ensures orderly comfort for your pets",
+    "price": 853.25,
+    "img": "/product-1.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 40,
+    "name": "Practical Granite Pants",
+    "description": "Discover the fragrant new Tuna with an exciting mix of Wooden ingredients",
+    "price": 711.25,
+    "img": "/product-2.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 41,
+    "name": "Incredible Granite Keyboard",
+    "description": "Experience the orchid brilliance of our Soap, perfect for unlawful environments",
+    "price": 59.3,
+    "img": "/product-3.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 42,
+    "name": "Licensed Soft Chair",
+    "description": "Savor the smoky essence in our Table, designed for wavy culinary adventures",
+    "price": 897.45,
+    "img": "/product-1.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 43,
+    "name": "Sleek Fresh Keyboard",
+    "description": "Ergonomic Salad made with Cotton for all-day gullible support",
+    "price": 358.55,
+    "img": "/product-2.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 44,
+    "name": "Fantastic Steel Shirt",
+    "description": "Featuring Bohrium-enhanced technology, our Towels offers unparalleled prudent performance",
+    "price": 687.8,
+    "img": "/product-3.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 45,
+    "name": "Modern Granite Hat",
+    "description": "Experience the orange brilliance of our Tuna, perfect for dependable environments",
+    "price": 758.97,
+    "img": "/product-1.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 46,
+    "name": "Rustic Plastic Tuna",
+    "description": "Discover the linear new Pizza with an exciting mix of Rubber ingredients",
+    "price": 694.7,
+    "img": "/product-2.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 47,
+    "name": "Awesome Granite Sausages",
+    "description": "Our smoky-inspired Keyboard brings a taste of luxury to your brisk lifestyle",
+    "price": 490.78,
+    "img": "/product-3.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 48,
+    "name": "Elegant Concrete Car",
+    "description": "Bespoke Pants designed with Concrete for brilliant performance",
+    "price": 656.25,
+    "img": "/product-1.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 49,
+    "name": "Incredible Cotton Computer",
+    "description": "Professional-grade Soap perfect for sticky training and recreational use",
+    "price": 917.89,
+    "img": "/product-2.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 50,
+    "name": "Licensed Plastic Computer",
+    "description": "Savor the spicy essence in our Pizza, designed for wretched culinary adventures",
+    "price": 322.29,
+    "img": "/product-3.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 51,
+    "name": "Ergonomic Plastic Towels",
+    "description": "New blue Sausages with ergonomic design for good-natured comfort",
+    "price": 588.09,
+    "img": "/product-1.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 52,
+    "name": "Refined Bronze Bacon",
+    "description": "The Theresia Salad is the latest in a series of boring products from Stark - Schinner",
+    "price": 233.9,
+    "img": "/product-2.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 53,
+    "name": "Ergonomic Cotton Car",
+    "description": "Innovative Bike featuring super technology and Plastic construction",
+    "price": 396.85,
+    "img": "/product-3.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 54,
+    "name": "Luxurious Frozen Pants",
+    "description": "The Alex Soap is the latest in a series of deafening products from Mills, Block and O'Keefe",
+    "price": 739.15,
+    "img": "/product-1.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 55,
+    "name": "Rustic Bronze Mouse",
+    "description": "Featuring Moscovium-enhanced technology, our Bike offers unparalleled uncomfortable performance",
+    "price": 549.39,
+    "img": "/product-2.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 56,
+    "name": "Electronic Frozen Fish",
+    "description": "New plum Hat with ergonomic design for fair comfort",
+    "price": 276.89,
+    "img": "/product-3.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 57,
+    "name": "Sleek Soft Chair",
+    "description": "The Kaci Computer is the latest in a series of fatal products from Lehner Inc",
+    "price": 108.8,
+    "img": "/product-1.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 58,
+    "name": "Small Plastic Pizza",
+    "description": "The silver Table combines Cyprus aesthetics with Iodine-based durability",
+    "price": 897.25,
+    "img": "/product-2.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 59,
+    "name": "Recycled Steel Soap",
+    "description": "Ergonomic Towels made with Metal for all-day gorgeous support",
+    "price": 495.79,
+    "img": "/product-3.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 60,
+    "name": "Small Frozen Pizza",
+    "description": "Ergonomic Sausages made with Plastic for all-day perky support",
+    "price": 60.4,
+    "img": "/product-1.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 61,
+    "name": "Recycled Concrete Tuna",
+    "description": "Refined Sausages designed with Cotton for wicked performance",
+    "price": 220.49,
+    "img": "/product-2.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 62,
+    "name": "Practical Plastic Bike",
+    "description": "New sky blue Fish with ergonomic design for insecure comfort",
+    "price": 922.99,
+    "img": "/product-3.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 63,
+    "name": "Refined Steel Towels",
+    "description": "Innovative Sausages featuring showy technology and Rubber construction",
+    "price": 268.89,
+    "img": "/product-1.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 64,
+    "name": "Refined Rubber Computer",
+    "description": "New tan Towels with ergonomic design for weary comfort",
+    "price": 329.69,
+    "img": "/product-2.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 65,
+    "name": "Bespoke Bronze Bacon",
+    "description": "New purple Salad with ergonomic design for bright comfort",
+    "price": 342.59,
+    "img": "/product-3.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 66,
+    "name": "Rustic Fresh Pizza",
+    "description": "Lindgren LLC's most advanced Table technology increases scaly capabilities",
+    "price": 740.59,
+    "img": "/product-1.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 67,
+    "name": "Modern Steel Fish",
+    "description": "The tan Chicken combines Togo aesthetics with Iridium-based durability",
+    "price": 696.85,
+    "img": "/product-2.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 68,
+    "name": "Electronic Wooden Shoes",
+    "description": "The violet Gloves combines Canada aesthetics with Plutonium-based durability",
+    "price": 653.29,
+    "img": "/product-3.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 69,
+    "name": "Luxurious Granite Pants",
+    "description": "New Table model with 51 GB RAM, 563 GB storage, and lanky features",
+    "price": 145.55,
+    "img": "/product-1.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 70,
+    "name": "Tasty Granite Mouse",
+    "description": "Our crunchy-inspired Tuna brings a taste of luxury to your obvious lifestyle",
+    "price": 191.89,
+    "img": "/product-2.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 71,
+    "name": "Modern Metal Gloves",
+    "description": "Discover the wolf-like agility of our Bacon, perfect for tepid users",
+    "price": 380.79,
+    "img": "/product-3.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 72,
+    "name": "Electronic Metal Pants",
+    "description": "Experience the gold brilliance of our Salad, perfect for unlined environments",
+    "price": 527.1,
+    "img": "/product-1.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 73,
+    "name": "Unbranded Bronze Hat",
+    "description": "Our shark-friendly Shoes ensures sour comfort for your pets",
+    "price": 740.7,
+    "img": "/product-2.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 74,
+    "name": "Tasty Rubber Cheese",
+    "description": "Discover the illustrious new Pizza with an exciting mix of Metal ingredients",
+    "price": 832.55,
+    "img": "/product-3.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 75,
+    "name": "Refined Plastic Shoes",
+    "description": "The tan Shirt combines Belgium aesthetics with Indium-based durability",
+    "price": 992.29,
+    "img": "/product-1.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 76,
+    "name": "Handcrafted Rubber Hat",
+    "description": "The yellow Keyboard combines Afghanistan aesthetics with Caesium-based durability",
+    "price": 211.3,
+    "img": "/product-2.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 77,
+    "name": "Intelligent Cotton Shirt",
+    "description": "New mint green Shirt with ergonomic design for wilted comfort",
+    "price": 305.49,
+    "img": "/product-3.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 78,
+    "name": "Intelligent Fresh Computer",
+    "description": "The orchid Ball combines Rwanda aesthetics with Arsenic-based durability",
+    "price": 135.29,
+    "img": "/product-1.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 79,
+    "name": "Awesome Frozen Table",
+    "description": "The sleek and discrete Fish comes with silver LED lighting for smart functionality",
+    "price": 231.8,
+    "img": "/product-2.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 80,
+    "name": "Recycled Bronze Fish",
+    "description": "The sleek and pale Hat comes with maroon LED lighting for smart functionality",
+    "price": 455.6,
+    "img": "/product-3.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 81,
+    "name": "Tasty Concrete Table",
+    "description": "New Shoes model with 20 GB RAM, 257 GB storage, and old-fashioned features",
+    "price": 180.43,
+    "img": "/product-1.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 82,
+    "name": "Tasty Steel Cheese",
+    "description": "The Polarised eco-centric analyzer Mouse offers reliable performance and same design",
+    "price": 744.99,
+    "img": "/product-2.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 83,
+    "name": "Refined Concrete Shirt",
+    "description": "Hane Group's most advanced Keyboard technology increases lovely capabilities",
+    "price": 706.99,
+    "img": "/product-3.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 84,
+    "name": "Gorgeous Concrete Chicken",
+    "description": "Stylish Mouse designed to make you stand out with jagged looks",
+    "price": 187.85,
+    "img": "/product-1.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 85,
+    "name": "Licensed Wooden Pants",
+    "description": "The azure Shirt combines Germany aesthetics with Einsteinium-based durability",
+    "price": 399.99,
+    "img": "/product-2.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 86,
+    "name": "Practical Bronze Chicken",
+    "description": "Oriental Bacon designed with Cotton for advanced performance",
+    "price": 895.8,
+    "img": "/product-3.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 87,
+    "name": "Bespoke Rubber Shoes",
+    "description": "Small Salad designed with Rubber for stormy performance",
+    "price": 594.09,
+    "img": "/product-1.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 88,
+    "name": "Handcrafted Rubber Towels",
+    "description": "Professional-grade Car perfect for ecstatic training and recreational use",
+    "price": 940.8,
+    "img": "/product-2.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 89,
+    "name": "Small Steel Cheese",
+    "description": "Smith - Abernathy's most advanced Fish technology increases neighboring capabilities",
+    "price": 674.85,
+    "img": "/product-3.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 90,
+    "name": "Practical Wooden Salad",
+    "description": "Innovative Car featuring enlightened technology and Cotton construction",
+    "price": 756.9,
+    "img": "/product-1.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 91,
+    "name": "Recycled Bronze Cheese",
+    "description": "Discover the dolphin-like agility of our Bike, perfect for flustered users",
+    "price": 978.25,
+    "img": "/product-2.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 92,
+    "name": "Handcrafted Plastic Gloves",
+    "description": "The mint green Bacon combines San Marino aesthetics with Curium-based durability",
+    "price": 742.55,
+    "img": "/product-3.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 93,
+    "name": "Recycled Concrete Soap",
+    "description": "Stylish Computer designed to make you stand out with sandy looks",
+    "price": 687.19,
+    "img": "/product-1.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 94,
+    "name": "Sleek Bronze Fish",
+    "description": "Discover the shark-like agility of our Towels, perfect for internal users",
+    "price": 160.99,
+    "img": "/product-2.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 95,
+    "name": "Intelligent Metal Bacon",
+    "description": "Innovative Computer featuring outstanding technology and Granite construction",
+    "price": 830.55,
+    "img": "/product-3.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 96,
+    "name": "Recycled Bronze Gloves",
+    "description": "Hilpert Inc's most advanced Computer technology increases average capabilities",
+    "price": 686.15,
+    "img": "/product-1.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 97,
+    "name": "Handmade Cotton Salad",
+    "description": "New Tuna model with 58 GB RAM, 904 GB storage, and grown features",
+    "price": 231.45,
+    "img": "/product-2.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 98,
+    "name": "Tasty Fresh Ball",
+    "description": "O'Connell - Monahan's most advanced Sausages technology increases strong capabilities",
+    "price": 984.99,
+    "img": "/product-3.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 99,
+    "name": "Luxurious Frozen Fish",
+    "description": "Innovative Computer featuring sure-footed technology and Cotton construction",
+    "price": 93.4,
+    "img": "/product-1.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 100,
+    "name": "Awesome Granite Table",
+    "description": "Professional-grade Soap perfect for everlasting training and recreational use",
+    "price": 896.89,
+    "img": "/product-2.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 101,
+    "name": "Unbranded Fresh Towels",
+    "description": "Featuring Francium-enhanced technology, our Cheese offers unparalleled juvenile performance",
+    "price": 846.39,
+    "img": "/product-3.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 102,
+    "name": "Modern Concrete Gloves",
+    "description": "Discover the squirrel-like agility of our Gloves, perfect for normal users",
+    "price": 859.39,
+    "img": "/product-1.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 103,
+    "name": "Licensed Wooden Bike",
+    "description": "Stylish Chair designed to make you stand out with unselfish looks",
+    "price": 375.31,
+    "img": "/product-2.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 104,
+    "name": "Modern Granite Computer",
+    "description": "The sleek and urban Gloves comes with plum LED lighting for smart functionality",
+    "price": 231.35,
+    "img": "/product-3.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 105,
+    "name": "Recycled Plastic Chair",
+    "description": "Discover the affectionate new Fish with an exciting mix of Frozen ingredients",
+    "price": 182.09,
+    "img": "/product-1.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 106,
+    "name": "Sleek Concrete Bike",
+    "description": "Discover the flamingo-like agility of our Soap, perfect for stupendous users",
+    "price": 557.69,
+    "img": "/product-2.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 107,
+    "name": "Awesome Metal Bacon",
+    "description": "Professional-grade Bike perfect for stable training and recreational use",
+    "price": 7.09,
+    "img": "/product-3.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 108,
+    "name": "Practical Fresh Pants",
+    "description": "The sleek and quick Table comes with magenta LED lighting for smart functionality",
+    "price": 837.25,
+    "img": "/product-1.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 109,
+    "name": "Handcrafted Steel Gloves",
+    "description": "The Open-architected zero tolerance policy Shoes offers reliable performance and weighty design",
+    "price": 674.79,
+    "img": "/product-2.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 110,
+    "name": "Elegant Wooden Tuna",
+    "description": "Experience the pink brilliance of our Hat, perfect for trim environments",
+    "price": 999.95,
+    "img": "/product-3.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 111,
+    "name": "Ergonomic Wooden Chips",
+    "description": "Savor the fresh essence in our Tuna, designed for vibrant culinary adventures",
+    "price": 955.65,
+    "img": "/product-1.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 112,
+    "name": "Handcrafted Soft Towels",
+    "description": "Experience the green brilliance of our Salad, perfect for sparkling environments",
+    "price": 752.39,
+    "img": "/product-2.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 113,
+    "name": "Licensed Wooden Bike",
+    "description": "Our lion-friendly Sausages ensures known comfort for your pets",
+    "price": 245.65,
+    "img": "/product-3.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 114,
+    "name": "Generic Bronze Towels",
+    "description": "Innovative Gloves featuring fatherly technology and Rubber construction",
+    "price": 215.89,
+    "img": "/product-1.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 115,
+    "name": "Rustic Soft Chicken",
+    "description": "New orchid Table with ergonomic design for apprehensive comfort",
+    "price": 211,
+    "img": "/product-2.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 116,
+    "name": "Gorgeous Bronze Gloves",
+    "description": "Small Fish designed with Metal for purple performance",
+    "price": 954.59,
+    "img": "/product-3.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 117,
+    "name": "Recycled Wooden Ball",
+    "description": "Professional-grade Soap perfect for sour training and recreational use",
+    "price": 79.19,
+    "img": "/product-1.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 118,
+    "name": "Fantastic Steel Towels",
+    "description": "The teal Bacon combines Saudi Arabia aesthetics with Gallium-based durability",
+    "price": 199.69,
+    "img": "/product-2.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 119,
+    "name": "Tasty Plastic Pants",
+    "description": "Ergonomic Soap made with Soft for all-day male support",
+    "price": 275.79,
+    "img": "/product-3.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 120,
+    "name": "Small Plastic Chips",
+    "description": "Our dog-friendly Chips ensures hairy comfort for your pets",
+    "price": 302.75,
+    "img": "/product-1.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 121,
+    "name": "Incredible Soft Mouse",
+    "description": "Our tender-inspired Ball brings a taste of luxury to your perfumed lifestyle",
+    "price": 954.8,
+    "img": "/product-2.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 122,
+    "name": "Modern Soft Shirt",
+    "description": "Discover the lion-like agility of our Hat, perfect for robust users",
+    "price": 983.09,
+    "img": "/product-3.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 123,
+    "name": "Handmade Concrete Pants",
+    "description": "Innovative Chair featuring made-up technology and Plastic construction",
+    "price": 892.55,
+    "img": "/product-1.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 124,
+    "name": "Generic Soft Tuna",
+    "description": "Ergonomic Pants made with Cotton for all-day same support",
+    "price": 487.79,
+    "img": "/product-2.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 125,
+    "name": "Ergonomic Fresh Pants",
+    "description": "Introducing the Estonia-inspired Salad, blending faraway style with local craftsmanship",
+    "price": 197.75,
+    "img": "/product-3.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 126,
+    "name": "Gorgeous Plastic Ball",
+    "description": "New Mouse model with 74 GB RAM, 604 GB storage, and bright features",
+    "price": 618.49,
+    "img": "/product-1.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 127,
+    "name": "Intelligent Rubber Chips",
+    "description": "Innovative Mouse featuring coarse technology and Bronze construction",
+    "price": 430.99,
+    "img": "/product-2.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 128,
+    "name": "Refined Plastic Salad",
+    "description": "Innovative Bacon featuring decent technology and Plastic construction",
+    "price": 937.75,
+    "img": "/product-3.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 129,
+    "name": "Oriental Concrete Cheese",
+    "description": "Experience the mint green brilliance of our Hat, perfect for apt environments",
+    "price": 229.75,
+    "img": "/product-1.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 130,
+    "name": "Modern Cotton Pants",
+    "description": "Experience the azure brilliance of our Mouse, perfect for drab environments",
+    "price": 82.19,
+    "img": "/product-2.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 131,
+    "name": "Sleek Metal Table",
+    "description": "Discover the horse-like agility of our Salad, perfect for gullible users",
+    "price": 613.09,
+    "img": "/product-3.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 132,
+    "name": "Unbranded Plastic Car",
+    "description": "Ergonomic Table made with Steel for all-day regal support",
+    "price": 897.69,
+    "img": "/product-1.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 133,
+    "name": "Handcrafted Granite Tuna",
+    "description": "Innovative Chair featuring scary technology and Rubber construction",
+    "price": 538.59,
+    "img": "/product-2.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 134,
+    "name": "Oriental Concrete Computer",
+    "description": "Savor the rich essence in our Chicken, designed for sunny culinary adventures",
+    "price": 742.39,
+    "img": "/product-3.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 135,
+    "name": "Intelligent Concrete Chicken",
+    "description": "Discover the weird new Tuna with an exciting mix of Fresh ingredients",
+    "price": 962.79,
+    "img": "/product-1.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 136,
+    "name": "Electronic Soft Fish",
+    "description": "Our tender-inspired Cheese brings a taste of luxury to your low lifestyle",
+    "price": 114.49,
+    "img": "/product-2.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 137,
+    "name": "Modern Frozen Sausages",
+    "description": "Experience the purple brilliance of our Soap, perfect for pointless environments",
+    "price": 178.79,
+    "img": "/product-3.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 138,
+    "name": "Luxurious Steel Fish",
+    "description": "Experience the blue brilliance of our Chair, perfect for odd environments",
+    "price": 694.45,
+    "img": "/product-1.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 139,
+    "name": "Ergonomic Fresh Pants",
+    "description": "Featuring Zirconium-enhanced technology, our Bacon offers unparalleled tame performance",
+    "price": 637.39,
+    "img": "/product-2.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 140,
+    "name": "Incredible Steel Chicken",
+    "description": "The sleek and pitiful Salad comes with black LED lighting for smart functionality",
+    "price": 549.15,
+    "img": "/product-3.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 141,
+    "name": "Generic Concrete Computer",
+    "description": "Featuring Osmium-enhanced technology, our Keyboard offers unparalleled lumpy performance",
+    "price": 144.75,
+    "img": "/product-1.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 142,
+    "name": "Handcrafted Wooden Shirt",
+    "description": "Savor the zesty essence in our Sausages, designed for brisk culinary adventures",
+    "price": 218.19,
+    "img": "/product-2.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 143,
+    "name": "Licensed Cotton Car",
+    "description": "The Balanced well-modulated neural-net Shoes offers reliable performance and elegant design",
+    "price": 234.39,
+    "img": "/product-3.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 144,
+    "name": "Unbranded Bronze Tuna",
+    "description": "Ergonomic Pants made with Wooden for all-day cumbersome support",
+    "price": 852.8,
+    "img": "/product-1.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 145,
+    "name": "Oriental Soft Computer",
+    "description": "Ergonomic Chair made with Wooden for all-day perky support",
+    "price": 320.59,
+    "img": "/product-2.jpg",
+    "category": "pants"
+  },
+  {
+    "id": 146,
+    "name": "Unbranded Steel Bacon",
+    "description": "New orange Car with ergonomic design for sniveling comfort",
+    "price": 780.15,
+    "img": "/product-3.jpg",
+    "category": "shirt"
+  },
+  {
+    "id": 147,
+    "name": "Luxurious Granite Computer",
+    "description": "The sleek and afraid Bacon comes with cyan LED lighting for smart functionality",
+    "price": 636.95,
+    "img": "/product-1.jpg",
+    "category": "hat"
+  },
+  {
+    "id": 148,
+    "name": "Practical Steel Car",
+    "description": "New Table model with 77 GB RAM, 984 GB storage, and creative features",
+    "price": 790.29,
+    "img": "/product-2.jpg",
+    "category": "shoes"
+  },
+  {
+    "id": 149,
+    "name": "Rustic Granite Car",
+    "description": "The Team-oriented next generation alliance Cheese offers reliable performance and clueless design",
+    "price": 881.42,
+    "img": "/product-3.jpg",
+    "category": "pants"
+  }
+]

@@ -1,1 +1,41 @@
-<p>products-page works!</p>
+<div class="flex flex-col items-center justify-center mt-4 gap-6 mb-2">
+
+<div class="join flex items-center justify-center w-full">
+  <!-- Search Input -->
+      <input
+        [(ngModel)]="search"
+        (ngModelChange)="onSearchChange(search)"
+        placeholder="Search products"
+        class="input input-bordered join-item w-1/2"
+        type="text"
+      />
+
+  <!-- Category Filter Dropdown -->
+  <select class="select select-bordered join-item w-1/4"
+    [(ngModel)]="category"
+    (ngModelChange)="onCategoryChange(category)"
+    >
+      <option value="all">All Categories</option>
+    <option *ngFor="let category of availableCategories" [value]="category">
+      {{ category }}
+    </option>
+  </select>
+</div>
+  <!-- Product cards grid -->
+  <span *ngIf="paginatedProducts.length === 0" class="text-center text-lg mt-2">No products found</span>
+  <div class="w-full grid grid-cols-1 sm:grid-cols-2 place-items-center lg:grid-cols-3 gap-4 mt-4">
+    <app-product-card *ngFor="let product of paginatedProducts" [product]="product"></app-product-card>
+  </div>
+
+  <!-- Pagination controls -->
+  <div class="join" *ngIf="paginatedProducts.length > 0">
+    <button
+      *ngFor="let page of pages"
+      class="join-item btn"
+      [ngClass]="{'btn-active': currentPage === page}"
+      (click)="goToPage(page)">
+      {{ page }}
+    </button>
+  </div>
+</div>
+
