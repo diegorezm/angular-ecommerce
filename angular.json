@@ -19,7 +19,7 @@
           "builder": "@ngx-env/builder:application",
           "options": {
             "outputPath": "dist/ecommerce",
-            "baseHref": "/angular-ecommerce/",
+            "baseHref": "/",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
