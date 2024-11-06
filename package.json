@@ -11,7 +11,7 @@
     "start:prod": "ng serve --configuration=production",
     "build:dev": "ng build --configuration=development",
     "build:prod": "ng build --configuration=production",
-    "build:deploy": "ng build --configuration production --base-href='./angular-ecommerce' angular-cli-ghpages --dir=dist/ecommerce "
+    "build:deploy": "ng build --configuration production --base-href='./angular-ecommerce' angular-cli-ghpages --dir=dist/ecommerce"
   },
   "private": true,
   "dependencies": {
