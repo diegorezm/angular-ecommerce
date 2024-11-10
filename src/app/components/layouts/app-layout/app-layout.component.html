@@ -6,7 +6,7 @@
       </a>
     </div>
     <div class="flex-1">
-      <a href="/products" class="btn btn-ghost text-md">
+      <a href="/app/products" class="btn btn-ghost text-md">
         Product Catalog
       </a>
     </div>
@@ -48,14 +48,14 @@
             </div>
             <span class="text-secondary">Subtotal: ${{ getCartSubtotal() }}</span>
           <div class="card-actions">
-            <a href="/checkout" class="btn btn-primary btn-block">Checkout</a>
+            <a href="/app/checkout" class="btn btn-primary btn-block">Checkout</a>
           </div>
         </div>
       </div>
     </div>
       <div class="space-x-2" *ngIf="!currentUser">
-        <a href="/auth/register" class="btn btn-ghost">Register</a>
-        <a href="/auth/login" class="btn btn-primary">Login</a>
+        <a href="/app/auth/register" class="btn btn-ghost">Register</a>
+        <a href="/app/auth/login" class="btn btn-primary">Login</a>
       </div>
 
     <div class="dropdown dropdown-end ml-2" *ngIf="currentUser" role="button" tabindex="0">
@@ -70,7 +70,7 @@
         tabindex="0"
         class="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow">
         <li>
-          <a href="/profile" class="justify-between">
+          <a href="/app/profile" class="justify-between">
             Profile
           </a>
         </li>

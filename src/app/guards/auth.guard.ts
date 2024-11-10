@@ -9,7 +9,7 @@ export const authGuard: CanActivateFn = (route, state) => {
   const notiticationService = inject(NotificationService);
   if (!authService.isLoggedIn()) {
     notiticationService.error('You must be logged in to access this page!');
-    router.navigate(['/auth/login']);
+    router.navigate(['/app/auth/login']);
     return false;
   }
   return true;

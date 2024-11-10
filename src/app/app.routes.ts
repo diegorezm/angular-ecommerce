@@ -9,39 +9,45 @@ import {RegisterPageComponent} from "./pages/auth/register-page/register-page.co
 import {authGuard} from "./guards/auth.guard";
 import {ProfilePageComponent} from "./pages/profile-page/profile-page.component";
 
-export const routes: Routes = [{
-  path: '',
-  component: AppLayoutComponent,
-  children: [
-    {
-      path: '',
-      component: HomePageComponent
-    },
-    {
-      path: 'products',
-      component: ProductsPageComponent
-    },
-    {
-      path: 'product/:id',
-      component: ProductDetailsPageComponent
-    },
-    {
-      path: 'checkout',
-      component: CheckoutPageComponent,
-      canActivate: [authGuard]
-    },
-    {
-      path: 'auth/login',
-      component: LoginPageComponent
-    },
-    {
-      path: 'auth/register',
-      component: RegisterPageComponent
-    },
-    {
-      path: 'profile',
-      component: ProfilePageComponent,
-      canActivate: [authGuard]
-    }
-  ]
-}];
+export const routes: Routes = [
+  {
+    path: '',
+    component: HomePageComponent
+  },
+  {
+    path: 'app',
+    component: AppLayoutComponent,
+    children: [
+      {
+        path: '',
+        redirectTo: '',
+        pathMatch: 'full'
+      },
+      {
+        path: 'products',
+        component: ProductsPageComponent
+      },
+      {
+        path: 'product/:id',
+        component: ProductDetailsPageComponent
+      },
+      {
+        path: 'checkout',
+        component: CheckoutPageComponent,
+        canActivate: [authGuard]
+      },
+      {
+        path: 'auth/login',
+        component: LoginPageComponent
+      },
+      {
+        path: 'auth/register',
+        component: RegisterPageComponent
+      },
+      {
+        path: 'profile',
+        component: ProfilePageComponent,
+        canActivate: [authGuard]
+      }
+    ]
+  }];

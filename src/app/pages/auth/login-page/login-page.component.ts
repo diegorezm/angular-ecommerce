@@ -28,7 +28,7 @@ export class LoginPageComponent {
     const user = this.authService.login(this.fields.value);
     if (user) {
       this.notificationService.success('Login successful');
-      this.router.navigate(['/']);
+      this.router.navigate(['/app/products']);
     } else {
       this.notificationService.error('Invalid credentials');
     }

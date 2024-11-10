@@ -27,7 +27,7 @@ export class RegisterPageComponent implements OnInit {
     const user = this.authService.register(this.fields.value);
     if (user) {
       this.notificationService.success('Account created successfully');
-      this.router.navigate(['/auth/login']);
+      this.router.navigate(['/app/auth/login']);
     } else {
       this.notificationService.error('Error creating account');
     }

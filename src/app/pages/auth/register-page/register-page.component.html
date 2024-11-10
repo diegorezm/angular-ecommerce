@@ -47,7 +47,7 @@
 </label>
       <p *ngIf="fields.get('password')?.hasError('required')" class="text-error">Password is required</p>
       <p *ngIf="fields.get('password')?.hasError('minlength')" class="text-error">Password must be at least 6 characters</p>
-      <a href="/auth/login" class="link link-primary">Already have an account? Login</a>
+      <a href="/app/auth/login" class="link link-primary">Already have an account? Login</a>
       <button class="btn btn-primary">Register</button>
   </form>
   </div>
