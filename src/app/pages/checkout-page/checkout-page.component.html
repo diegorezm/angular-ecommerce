@@ -5,16 +5,17 @@
       Subtotal: ${{ getCartSubtotal() }}
     </p>
     <div class="flex flex-col items-center justify-center mt-4 gap-6 mb-2">
-      <div *ngFor="let cartItem of cart" class="flex flex-row items-center justify-between p-2 border border-base-300 rounded-md w-full">
+      <div *ngFor="let cartItem of cart"
+        class="flex flex-row items-center justify-between p-2 border border-base-300 rounded-md w-full">
         <img src="{{ cartItem.img }}" alt="product" class="w-16 h-16 object-cover rounded-md">
-          <div>
-            <span class="text-md font-bold">{{ cartItem.name }}</span>
-            </div>
-              <div>
-              <button class="btn btn-sm btn-circle btn-destructive text-2xl" (click)="removeFromCart(cartItem)">
-                    x
-              </button>
-            </div>
+        <div>
+          <span class="text-md font-bold">{{ cartItem.name }}</span>
+        </div>
+        <div>
+          <button class="btn btn-sm btn-circle btn-destructive text-2xl" (click)="removeFromCart(cartItem)">
+            x
+          </button>
+        </div>
       </div>
     </div>
     <div class="card-actions justify-end">

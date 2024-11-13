@@ -1,21 +1,19 @@
 <div>
-<div
-  class="hero min-h-screen"
-    style="background-image: url(/landing-page-img.jpg)">
-  <div class="hero-overlay bg-opacity-60"></div>
-  <div class="hero-content text-neutral-content text-center">
-    <div class="max-w-md">
-      <h1 class="mb-5 text-5xl font-bold">Ecommerce</h1>
-      <p class="mb-5">
-        Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-        quasi. In deleniti eaque aut repudiandae et a id nisi.
-      </p>
-      <a href="/app/products" class="btn btn-primary">
+  <div class="hero min-h-screen" style="background-image: url(/landing-page-img.jpg)">
+    <div class="hero-overlay bg-opacity-60"></div>
+    <div class="hero-content text-neutral-content text-center">
+      <div class="max-w-md">
+        <h1 class="mb-5 text-5xl font-bold">Ecommerce</h1>
+        <p class="mb-5">
+          Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
+          quasi. In deleniti eaque aut repudiandae et a id nisi.
+        </p>
+        <a href="/app/products" class="btn btn-primary">
           Get Started
         </a>
+      </div>
     </div>
   </div>
-</div>
   <div class="mt-8">
     <div class="flex flex-col items-center justify-center">
       <h1 class="text-2xl font-bold">
@@ -24,5 +22,5 @@
       <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mt-4">
         <app-product-card *ngFor="let product of products" [product]="product"></app-product-card>
       </div>
+    </div>
   </div>
-</div>
